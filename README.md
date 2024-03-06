@@ -22,3 +22,6 @@ Country columns.
 
 ## Project Insights
 [Report](https://github.com/Swam80/Tata_Forage_JobSimulation/blob/main/REVENUE%20AND%20EXPANSION%20INSIGHTs_1.pdf)
+
+## Dashboard
+[link](https://public.tableau.com/views/Tata_1/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)

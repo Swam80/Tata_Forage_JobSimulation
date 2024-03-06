@@ -26,3 +26,6 @@ Country columns.
 ## Dashboard
 [Dashboard 1](https://public.tableau.com/views/Tata_1/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 [Dashboard 2](https://public.tableau.com/views/Tata_2/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+## Certificate
+[Certificate](https://github.com/Swam80/Tata_Forage_JobSimulation/blob/main/Certi.pdf)
